@@ -1,4 +1,4 @@
-#  NETMASTER  WIFI SWITCH - Enable / Disable
+# NETMASTER WIFI SWITCH - Enable / Disable
 
 ## Bu bot ne işe yarar?
 
@@ -8,7 +8,7 @@ Bu bot kablosuz **WIFI** ayarınızı açıp kapatmanıza yarar.
 
 ## Botu kullanmak için:
 
-### Proje dizinindeki **kütüphaneleri** yükleyin:
+Proje dizinindeki **kütüphaneleri** yükleyin:
 
 #
 
@@ -16,7 +16,7 @@ Bu bot kablosuz **WIFI** ayarınızı açıp kapatmanıza yarar.
 
 #
 
-### main.js dosyasının içerisindeki **username** / **password** değişkenini kendi modem panelinizin kullanıcı adı ve şifresi ile değiştirin. Ayrıca Varsayılan Ağ Geçidini kontrol edip farklı ise değiştirin. Varsayılan Ağ geçidini öğrenmek için **komut satırına** `ipconfig` yazabilirsiniz.
+main.js dosyasının içerisindeki **username** / **password** değişkenini kendi modem panelinizin kullanıcı adı ve şifresi ile değiştirin. Ayrıca Varsayılan Ağ Geçidini kontrol edip farklı ise değiştirin. Varsayılan Ağ geçidini öğrenmek için **komut satırına** `ipconfig` yazabilirsiniz.
 
 ```
    Default Gateway . . . . . . . . . : 192.168.0.1
